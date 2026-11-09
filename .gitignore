@@ -1,0 +1,9 @@
+data/
+runs/
+*.pt
+*.mp4
+*.mov
+.venv/
+__pycache__/
+.DS_Store
+scratch/

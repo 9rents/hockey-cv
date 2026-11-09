@@ -1,0 +1,13 @@
+[project]
+name = "hockey-cv"
+version = "0.1.0"
+description = "Player detection, tracking, team split and top-down rink view for a hockey broadcast clip"
+requires-python = ">=3.12"
+dependencies = [
+    "lap>=0.5.14",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "opencv-python>=5.0.0.93",
+    "scikit-learn>=1.9.1",
+    "ultralytics>=8.4.208",
+]
